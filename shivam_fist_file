@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main(){
+int xl;
+cin>>xl;
+}
+//the test program which I shall be running to check the functions of the upcoming program
